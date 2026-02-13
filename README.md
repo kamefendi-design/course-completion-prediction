@@ -110,8 +110,8 @@
 
 ## Стек технологий
 
-Python
-Pandas, NumPy
-scikit-learn
-Matplotlib
-Jupyter Notebook
+Python  
+Pandas, NumPy  
+scikit-learn  
+Matplotlib  
+Jupyter Notebook  
